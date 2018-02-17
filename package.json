@@ -1,0 +1,29 @@
+{
+  "name": "ff-medium-kr",
+  "version": "1.0.0",
+  "description": "Support korean font in Medium.",
+  "main": "medium-kr.css",
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^10.0.3"
+  },
+  "scripts": {
+    "lint": "standard ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a1p4ca/ff-medium-kr.git"
+  },
+  "keywords": [
+    "medium",
+    "korean",
+    "firefox",
+    "webextension"
+  ],
+  "author": "a1p4ca",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/a1p4ca/ff-medium-kr/issues"
+  },
+  "homepage": "https://github.com/a1p4ca/ff-medium-kr#readme"
+}
