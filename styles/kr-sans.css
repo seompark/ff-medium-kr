@@ -1,0 +1,9 @@
+@import url(https://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+
+.ui-h3,
+.graf--title,
+.graf--h3,
+.graf--h4,
+.postArticle-content .graf--p {
+    font-family: 'Nanum Gothic', sans-serif !important;
+}

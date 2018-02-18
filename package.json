@@ -2,7 +2,7 @@
   "name": "ff-medium-kr",
   "version": "1.0.0",
   "description": "Support korean font in Medium.",
-  "main": "medium-kr.css",
+  "main": "src/medium-kr.js",
   "dependencies": {},
   "devDependencies": {
     "standard": "^10.0.3"
